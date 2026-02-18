@@ -9,3 +9,5 @@ compiles using the node and expres pkgs
 if you want to run the app remotely on your system use port://3000 for the web test server and port://5000 for the backend database server. 
 
 
+Or if you want to view it live: https://clout-app.onrender.com
+
